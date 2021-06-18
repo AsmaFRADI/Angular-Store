@@ -1,0 +1,74 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "DO",
+      "lastName": "Alex",
+      "address": "Stuttgart",
+      "email": "user1@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Fradi",
+      "lastName": "Asma",
+      "address": "Stuttgart",
+      "email": "asma@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Leon",
+      "lastName": "Fab",
+      "address": "Tunisia",
+      "email": "gyh@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Lake",
+      "lastName": "Isabel",
+      "address": "French",
+      "email": "po@gmail.com"
+    },
+    {
+      "name": "nidhal",
+      "lastName": "bz",
+      "email": "bz@gmail.com",
+      "address": "Lembergstraße 44",
+      "id": 5
+    },
+    {
+      "name": "sam",
+      "lastName": "xxx",
+      "email": "x@gmail.com",
+      "address": "sdfsdfsd",
+      "id": 6
+    },
+    {
+      "name": "Asma",
+      "lastName": "sefsdf",
+      "email": "fradi.asma.dev@gmail.com",
+      "address": "44 lembergstrasse",
+      "id": 7
+    },
+    {
+      "name": "DO",
+      "lastName": "Alexx",
+      "email": "user1@gmail.com",
+      "address": "Stuttgart",
+      "id": 8
+    },
+    {
+      "name": "Fradii",
+      "lastName": "Asma",
+      "email": "asma@gmail.com",
+      "address": "Stuttgart",
+      "id": 9
+    },
+    {
+      "name": "Lake",
+      "lastName": "Isabel",
+      "email": "po@gmail.com",
+      "address": "French",
+      "id": 10
+    }
+  ]
+}
